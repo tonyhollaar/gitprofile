@@ -47,8 +47,8 @@ const config = {
     {
       company: 'Broadridge Financial Solutions, Inc.',
       position: 'Team Lead/Support Analyst',
-      from: 'September 2022',
-      to: 'February 2021',
+      from: 'February 2021',
+      to: 'September 2022',
       companyLink: 'https://www.broadridge.com/',
     },
     {
@@ -114,14 +114,14 @@ const config = {
       title: 'Webscraping',
       description:
         'Webscraping historical oil prices, utilizing US Labor Statistics API and creating stylized visualizations with Plotly Package',
-      imageUrl: 'https://github.com/tonyhollaar/tonyhollaar.github.io/blob/main/img/portfolio_stockprice.jpg',
+      imageUrl: https://github.com/tonyhollaar/tonyhollaar.github.io/blob/main/img/portfolio_stockprice.jpg,
       link: 'https://www.tonyhollaar.com/portfolio/webscraping',
     },
     {
       title: 'Time Series Forecasting with Music',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: '<img src="img/portfolio_robotpiano.jpg" alt="time_series_music" class="inline"/>',
+        'Deep Learning Modeling with LSTM to generate and evaluate musical sequences',
+      imageUrl: <img src="img/portfolio_robotpiano.jpg" alt="time_series_music" class="inline"/>,
       link: 'https://www.tonyhollaar.com/portfolio/project-one-ephnc-hk6rb',
     },
     {
