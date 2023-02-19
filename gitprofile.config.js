@@ -114,21 +114,21 @@ const config = {
       title: 'Webscraping',
       description:
         'Webscraping historical oil prices, utilizing US Labor Statistics API and creating stylized visualizations with Plotly Package',
-      imageUrl: 'https://github.com/tonyhollaar/tonyhollaar.github.io/blob/main/img/portfolio_robotpiano.jpg?raw=true',
+      imageUrl: 'https://github.com/tonyhollaar/tonyhollaar.github.io/blob/main/img/portfolio_stockprice.jpg?raw=true',
       link: 'https://www.tonyhollaar.com/portfolio/webscraping',
     },
     {
       title: 'Time Series Forecasting with Music',
       description:
         'Deep Learning Modeling with LSTM to generate and evaluate musical sequences',
-      imageUrl: 'https://github.com/tonyhollaar/tonyhollaar.github.io/blob/main/img/portfolio_stockprice.jpg?raw=true',
+      imageUrl: 'https://github.com/tonyhollaar/tonyhollaar.github.io/blob/main/img/portfolio_robotpiano.jpg?raw=true',
       link: 'https://www.tonyhollaar.com/portfolio/project-one-ephnc-hk6rb',
     },
     {
       title: 'Visualizations',
       description:
         'One technique is a Bar Chart Race as a visual way to display data changing over time in the form of an animated bar chart',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://github.com/tonyhollaar/projects/blob/12a1514c76c25a08b0c03dabd9712fee72e20f33/Visualizations_Bar_Chart_Race_Example.gif?raw=true',
       link: 'https://www.tonyhollaar.com/portfolio/visualizations',
     },
   ],
