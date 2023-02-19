@@ -90,19 +90,19 @@ const config = {
   education: [
     {
       institution: 'Fairfield University',
-      degree: 'Master\s degree, Business Analytics',
+      degree: 'MSc Business Analytics',
       from: '2019',
       to: '2020',
     },
     {
       institution: 'Utrecht University',
-      degree: 'Master\'s degree International Economics and Business with the track: International Financial Economics  ',
+      degree: 'MSc International Economics and Business with the track: International Financial Economics',
       from: '2012',
       to: '2013',
     },
 	{
       institution: 'Utrecht University',
-      degree: 'Bachelor\'s degree Economics and Business Economics',
+      degree: 'BSc Economics and Business Economics',
       from: '2007',
       to: '2011',
     },
@@ -114,14 +114,14 @@ const config = {
       title: 'Webscraping',
       description:
         'Webscraping historical oil prices, utilizing US Labor Statistics API and creating stylized visualizations with Plotly Package',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://github.com/tonyhollaar/tonyhollaar.github.io/blob/main/img/portfolio_stockprice.jpg',
       link: 'https://www.tonyhollaar.com/portfolio/webscraping',
     },
     {
       title: 'Time Series Forecasting with Music',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: '<img src="img/portfolio_robotpiano.jpg" alt="time_series_music" class="inline"/>',
       link: 'https://www.tonyhollaar.com/portfolio/project-one-ephnc-hk6rb',
     },
     {
