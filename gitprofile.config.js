@@ -28,7 +28,7 @@ const config = {
     'PostgreSQL',
 	'VBA',
 	'Tableau',
-	'PowerBi'
+	'PowerBi',
 	'Streamlit',
 	'PySpark',
 	'H20',
