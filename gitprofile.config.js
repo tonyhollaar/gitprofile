@@ -114,14 +114,14 @@ const config = {
       title: 'Webscraping',
       description:
         'Webscraping historical oil prices, utilizing US Labor Statistics API and creating stylized visualizations with Plotly Package',
-      imageUrl: 'https://github.com/tonyhollaar/tonyhollaar.github.io/blob/main/img/portfolio_stockprice.jpg',
+      imageUrl: [[img/portfolio_stockprice.jpg|"time_series_music"]],,
       link: 'https://www.tonyhollaar.com/portfolio/webscraping',
     },
     {
       title: 'Time Series Forecasting with Music',
       description:
         'Deep Learning Modeling with LSTM to generate and evaluate musical sequences',
-      imageUrl: <img src="img/portfolio_robotpiano.jpg" alt="time_series_music" class="inline"/>,
+      imageUrl: [[img/portfolio_robotpiano.jpg|"time_series_music"]],
       link: 'https://www.tonyhollaar.com/portfolio/project-one-ephnc-hk6rb',
     },
     {
