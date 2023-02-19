@@ -197,10 +197,10 @@ const config = {
     // Custom theme
     customTheme: {
       primary: '#CFD8C7', //light-green
-      secondary: '#212E21', // dark-green
-      accent: '#FFFFFF', // dark-yellow
+      secondary: '#212E21', //dark-green
+      accent: '#FFFFFF', // white
       neutral: '#2A2730', //dark-purple
-      'base-100': '#F4F3E8', // beige
+      'base-100': '#F4F3E8', //beige
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },
