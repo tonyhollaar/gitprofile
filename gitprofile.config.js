@@ -135,7 +135,7 @@ const config = {
       title: 'SQLite',
       description:
         'Use cases for utilizing SQL queries such as aggregatations (count/sum) and flattening of SQL tables with e.g. 1 row per user utilizing Python package SQLite3',
-      imageUrl: 'https://github.com/tonyhollaar/tonyhollaar.github.io/blob/main/img/portfolio_sqlite_logo.png?raw=true',
+      imageUrl: 'https://github.com/tonyhollaar/tonyhollaar.github.io/blob/main/img/portfolio_sqlite_logo.jpg?raw=true',
       link: 'https://www.tonyhollaar.com/portfolio/visualizations',
     },
   ],
