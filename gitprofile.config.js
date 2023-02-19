@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/tony-hollaar-819a9bb8/',
+    linkedin: 'tony-hollaar-819a9bb8',
     twitter: 'TonyHollaar',
     medium: 'thollaar',
     website: 'https://www.tonyhollaar.com',
