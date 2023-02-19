@@ -11,20 +11,10 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // format: userid/username
-    skype: '',
-    telegram: '',
+    linkedin: 'https://www.linkedin.com/in/tony-hollaar-819a9bb8/',
+    twitter: 'TonyHollaar',
+    medium: 'thollaar',
     website: 'https://www.tonyhollaar.com',
-    phone: '',
     email: 'thollaar@gmail.com',
   },
   resume: {
@@ -41,17 +31,17 @@ const config = {
   experiences: [
     {
       company: 'Conn\'s Homeplus',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      position: 'Manager Data Engineering',
+      from: 'June 2023',
+      to: 'November 2023',
+      companyLink: 'https://www.conns.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Broadridge',
+      position: 'Team Lead/Support Analyst',
+      from: 'September 2022',
+      to: 'February 2021',
+      companyLink: 'https://www.broadridge.com/',
     },
   ],
   /* certifications: [
@@ -64,21 +54,27 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Fairfield University',
+      degree: 'Master\s degree, Business Analytics',
+      from: '2019',
+      to: '2020',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'Utrecht University',
+      degree: 'Master\'s degree ',
       from: '2012',
-      to: '2014',
+      to: '2013',
+    },
+	{
+      institution: 'Utrecht University',
+      degree: 'Bachelor\'s degree ',
+      from: '2007',
+      to: '2011',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  externalProjects: [
+  /* externalProjects: [
     {
       title: 'Project Name',
       description:
@@ -93,11 +89,11 @@ const config = {
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
-  ],
+  ], */
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: 'medium', // medium | dev
+    username: 'thollaar', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
@@ -109,7 +105,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'winter',
+    defaultTheme: 'garden',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
