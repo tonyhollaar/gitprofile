@@ -3,10 +3,10 @@
 const config = {
   github: {
     username: 'tonyhollaar', // Your GitHub org/user name. (Required)
-    sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    sortBy: 'updated', // stars | updated
+    limit: 5, // How many projects to display.
     exclude: {
-      forks: false, // Forked projects will not be displayed if set to true.
+      forks: true, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
@@ -26,7 +26,15 @@ const config = {
     'R',
     'MySQL',
     'PostgreSQL',
-	'VBA'
+	'VBA',
+	'Tableau',
+	'PowerBi'
+	'Streamlit',
+	'PySpark',
+	'H20',
+	'SPSS',
+	'Stata',
+	'MS Office'
   ],
   experiences: [
     {
@@ -37,11 +45,38 @@ const config = {
       companyLink: 'https://www.conns.com',
     },
     {
-      company: 'Broadridge',
+      company: 'Broadridge Financial Solutions, Inc.',
       position: 'Team Lead/Support Analyst',
       from: 'September 2022',
       to: 'February 2021',
       companyLink: 'https://www.broadridge.com/',
+    },
+    {
+      company: 'Fairfield University',
+      position: 'Institutional Research Intern',
+      from: 'December 2020',
+      to: 'February 2021',
+	  position: 'Python Fundamentals - Graduate Teaching Assistant',
+      from: 'July 2020',
+      to: 'August 2020',
+	  position: 'Graduate Research Assistant',
+      from: 'October 2019',
+      to: 'August 2020',
+      companyLink: 'https://www.fairfield.edu/',
+    },
+    {
+      company: 'AP Support',
+      position: 'Consultant',
+      from: 'February 2016',
+      to: 'September 2017',
+      companyLink: 'https://apsupport.nl/',
+    },
+    {
+      company: 'E.C. Ortiz & Co., LLP',
+      position: 'Accounting and Auditing Intern',
+      from: 'February 2016',
+      to: 'September 2017',
+      companyLink: 'https://apsupport.nl/',
     },
   ],
   /* certifications: [
@@ -61,13 +96,13 @@ const config = {
     },
     {
       institution: 'Utrecht University',
-      degree: 'Master\'s degree ',
+      degree: 'Master\'s degree International Economics and Business with the track: International Financial Economics  ',
       from: '2012',
       to: '2013',
     },
 	{
       institution: 'Utrecht University',
-      degree: 'Bachelor\'s degree ',
+      degree: 'Bachelor\'s degree Economics and Business Economics',
       from: '2007',
       to: '2011',
     },
@@ -76,18 +111,25 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Webscraping',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Webscraping historical oil prices, utilizing US Labor Statistics API and creating stylized visualizations with Plotly Package',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://www.tonyhollaar.com/portfolio/webscraping',
     },
     {
-      title: 'Project Name',
+      title: 'Time Series Forecasting with Music',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://www.tonyhollaar.com/portfolio/project-one-ephnc-hk6rb',
+    },
+    {
+      title: 'Visualizations',
+      description:
+        'One technique is a Bar Chart Race as a visual way to display data changing over time in the form of an animated bar chart',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://www.tonyhollaar.com/portfolio/visualizations',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
