@@ -147,7 +147,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'garden',
+    defaultTheme: 'procyon',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -196,11 +196,11 @@ const config = {
 
     // Custom theme
     customTheme: {
-      primary: '#CFD8C7',
-      secondary: '#212E21',
-      accent: '#e8d03a',
-      neutral: '#2A2730', //letters
-      'base-100': '#F4F3E8',
+      primary: '#CFD8C7', //light-green
+      secondary: '#212E21', // dark-green
+      accent: '#FFFFFF', // dark-yellow
+      neutral: '#2A2730', //dark-purple
+      'base-100': '#F4F3E8', // beige
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },
