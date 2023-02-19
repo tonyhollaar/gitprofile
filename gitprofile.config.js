@@ -76,7 +76,7 @@ const config = {
       position: 'Accounting and Auditing Intern',
       from: 'February 2016',
       to: 'September 2017',
-      companyLink: 'https://apsupport.nl/',
+      companyLink: 'https://rothcocpa.com/announcement/',
     },
   ],
   /* certifications: [
