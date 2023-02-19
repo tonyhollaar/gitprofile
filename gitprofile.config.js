@@ -114,7 +114,7 @@ const config = {
       title: 'Webscraping',
       description:
         'Webscraping historical oil prices, utilizing US Labor Statistics API and creating stylized visualizations with Plotly Package',
-      imageUrl: https://github.com/tonyhollaar/tonyhollaar.github.io/blob/main/img/portfolio_stockprice.jpg,
+      imageUrl: 'https://github.com/tonyhollaar/tonyhollaar.github.io/blob/main/img/portfolio_stockprice.jpg',
       link: 'https://www.tonyhollaar.com/portfolio/webscraping',
     },
     {
