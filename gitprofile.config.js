@@ -38,6 +38,13 @@ const config = {
   ],
   experiences: [
     {
+      company: 'self-employed',
+      position: 'Business Analytics Consultant',
+      from: 'February 2023',
+      to: 'Current',
+      companyLink: 'https://www.tonyhollaar.com',
+    },
+    {
       company: 'Conn\'s Homeplus',
       position: 'Manager Data Engineering',
       from: 'June 2023',
