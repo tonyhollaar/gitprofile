@@ -4,7 +4,7 @@ const config = {
   github: {
     username: 'tonyhollaar', // Your GitHub org/user name. (Required)
     sortBy: 'updated', // stars | updated
-    limit: 5, // How many projects to display.
+    limit: 6, // How many projects to display.
     exclude: {
       forks: true, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -122,7 +122,7 @@ const config = {
       description:
         'The streamlit-bls-connection package allows you to easily interact with the U.S. Bureau of Labor Statistics (BLS) API and retrieve data as pandas dataframes and display them in Streamlit !',
       imageUrl: 'https://raw.githubusercontent.com/tonyhollaar/streamlit_bls_connection/main/logo.svg',
-      link: 'https://github.com/tonyhollaar/streamlit_bls_connection/',
+      link: 'https://github.com/tonyhollaar/streamlit_bls_connection',
     },
     {
       title: 'Webscraping',
