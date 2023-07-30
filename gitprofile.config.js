@@ -118,6 +118,13 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
+      title: 'streamlit-bls-connection',
+      description:
+        'The streamlit-bls-connection package allows you to easily interact with the U.S. Bureau of Labor Statistics (BLS) API and retrieve data as pandas dataframes and display them in Streamlit !',
+      imageUrl: 'https://raw.githubusercontent.com/tonyhollaar/streamlit_bls_connection/main/logo.svg',
+      link: 'https://github.com/tonyhollaar/streamlit_bls_connection/',
+    },
+    {
       title: 'Webscraping',
       description:
         'Webscraping historical oil prices, utilizing US Labor Statistics API and creating stylized visualizations with Plotly Package',
